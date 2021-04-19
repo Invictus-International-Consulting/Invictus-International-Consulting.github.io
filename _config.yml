@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Invictus ACe
+name: Invictus IC -  ACE
 
 # Short bio or description (displayed in the header)
 description: Advanced Capabilities and Engineering
@@ -21,9 +21,9 @@ footer-links:
   email: 
   facebook: invictusic
   flickr:
-  github: barryclark/jekyll-now
+  github: Invictus-International-Consulting/Invictus-International-Consulting.github.io
   instagram: invictusic
-  linkedin: invictus-ic
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: invictusic
