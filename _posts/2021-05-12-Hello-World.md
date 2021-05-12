@@ -1,7 +1,13 @@
 ---
 layout: post
 title: Hello World!
+excerpt_separator: <!--more-->
 ---
+
+This is just a sample post to show what the various styling on this blog would appear as:
+
+<!--more-->
+
 
 # Text
 ```
